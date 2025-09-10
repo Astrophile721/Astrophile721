@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React, MERN**
 
-- 📫 How to reach me **nikhilkhuntia721@gmail.com**
+- 📫 How to reach me **nikhilkhuntia721.v2@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
